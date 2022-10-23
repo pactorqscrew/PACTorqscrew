@@ -3388,7 +3388,8 @@ table.alt tbody tr td {
   background-color: #212931;
   background-image: url("../../images/bgvedio.mp4"),
     linear-gradient(0deg, rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.1)),
-    url("../../images/bgvedio.mp4");
+    url("../../images/bg.gif");
+  background-repeat: no-repeat;
   background-size: auto, auto, 100% auto;
   background-position: center, center, top center;
   background-repeat: repeat, no-repeat, no-repeat;
@@ -4883,4 +4884,9 @@ body.is-preload #intro:not(.hidden)+#header+#nav {
 
 #fi-img {
   width: 104%;
+}
+
+.btn-join-us {
+  display: block;
+  padding: 0;
 }
