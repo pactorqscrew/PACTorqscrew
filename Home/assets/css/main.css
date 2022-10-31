@@ -2259,7 +2259,7 @@ button.fit,
 .button.fit {
   border-radius: 60px;
   width: 30%;
-  margin: auto;
+  margin: 13px;
 }
 
 input[type="submit"].small,
@@ -4889,6 +4889,7 @@ body.is-preload #intro:not(.hidden)+#header+#nav {
 .btn-join-us {
   display: block;
   padding: 0;
+  margin: 10px;
 }
 
 .justify {
