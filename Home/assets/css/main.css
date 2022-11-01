@@ -3099,7 +3099,7 @@ header.major> :last-child {
 
 header.major>p {
   margin-top: 0;
-  text-align: center;
+  /* text-align: center; */
 }
 
 header.major>.date {
@@ -4893,5 +4893,9 @@ body.is-preload #intro:not(.hidden)+#header+#nav {
 }
 
 .justify {
+  text-align: justify;
+}
+
+.para-new {
   text-align: justify;
 }
