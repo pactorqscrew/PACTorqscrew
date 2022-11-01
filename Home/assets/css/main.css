@@ -178,8 +178,8 @@ body {
 
   }
 
-  .button.fit {
-    width: 30%;
+  .btn-join-us {
+    margin: auto;
   }
 }
 
@@ -2259,7 +2259,7 @@ button.fit,
 .button.fit {
   border-radius: 60px;
   width: 30%;
-  margin: 13px;
+  margin: 10px auto;
 }
 
 input[type="submit"].small,
@@ -4889,7 +4889,7 @@ body.is-preload #intro:not(.hidden)+#header+#nav {
 .btn-join-us {
   display: block;
   padding: 0;
-  margin: 10px;
+  margin: auto;
 }
 
 .justify {
